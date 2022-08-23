@@ -10,11 +10,14 @@ body {background-color: grey;}
 
 .infoboks{
     width: 600px;
-    height: 100px;
+    height: 150px;
     background-color: lightblue;
     border: 1px blue solid;
     padding: 5px;
     border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h1{
@@ -24,8 +27,6 @@ h1{
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
-
-body {background-color: red;}
 
 .header {
     position: relative;
