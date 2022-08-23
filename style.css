@@ -152,3 +152,17 @@ p {
     justify-content: center;
     flex-direction: column;
   }
+
+  .split{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .kasse{
+    width: 100px;
+    height: 100px;
+    background-image: url(https://pbs.twimg.com/media/CrBf-CzW8AEBusz?format=jpg&name=large);
+    background-size: cover;
+  }
