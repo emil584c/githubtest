@@ -131,3 +131,12 @@ p {
     padding-right: 1.5rem;
     padding-left: 1.5rem;
   }
+
+
+  footer{
+    background: #9698a6;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
