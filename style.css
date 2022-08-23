@@ -1,1 +1,18 @@
-body {background-color: red;}
+body {background-color: grey;}
+
+.white{
+    background-color: #F2F2F2;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    
+}
+
+.infoboks{
+    width: 600px;
+    height: 100px;
+    background-color: lightblue;
+    border: 1px blue solid;
+    padding: 5px;
+    border-radius: 4px;
+
+}
