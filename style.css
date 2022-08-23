@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 body {background-color: grey;}
 
 .white{
@@ -27,6 +30,11 @@ h1{
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
+<<<<<<< Updated upstream
+=======
+
+body {background-color: red;}
+>>>>>>> Stashed changes
 
 .header {
     position: relative;
@@ -130,4 +138,8 @@ p {
     padding-bottom: 4.375rem;
     padding-right: 1.5rem;
     padding-left: 1.5rem;
+<<<<<<< Updated upstream
   }
+=======
+  }
+>>>>>>> Stashed changes
