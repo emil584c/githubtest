@@ -166,3 +166,10 @@ p {
     background-image: url(https://pbs.twimg.com/media/CrBf-CzW8AEBusz?format=jpg&name=large);
     background-size: cover;
   }
+
+  .goat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+  }
